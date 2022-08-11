@@ -1,1 +1,0 @@
-# TAP GitOps test
